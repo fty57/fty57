@@ -21,7 +21,7 @@ Um pouco sobre mim:
 - 🎯 Portfolio site: **Em construção**
 - ⚡ Fato curioso sobre mim: Eu amo estudar economia, **Eterno aprendiz do mundo dos Investimentos**!
 - ❤️ Frase motivadora: **Se você não lugar pelo futuro que você quer, você vai lutar pelo futuro que vier**!
-
+- 😃 Art Shared (Cool Cat): https://opensea.io/assets/0x1a92f7381b9f03921564a437210bb9396471050c/5563!
 
 
  
