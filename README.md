@@ -4,7 +4,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-fty.57@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fty.57@alu.ufc.br)](mailto:fty.57@alu.ufc.br)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fty57.fty57)
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=fty57.fty57)
 
 Oi, me chamo Álisson Véras 😃. Moro em Quixadá-CE, e atualmente estou cursando Design Digital na Universidade Federal do Ceará (UFC). Eu amo tecnologia e sou curioso com esse mundo imenso, além de adorar aprender novas coisas e enfrentar grandes desafios.
 
