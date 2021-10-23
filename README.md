@@ -19,8 +19,8 @@ Um pouco sobre mim:
 ## 🤔 Olá, Mundo!
 - 💬 Pode vir falar comigo o que precisa. Se eu ainda não souber de algo, acredite eu vou aprender e resolver seu problema!
 - 🎯 Portfolio site: **Em construção**
-- ⚡ Fato curioso sobre mim: Eu amo estudar economia, **Eterno aprendiz do mundo dos Investimentos**!
-- ❤️ Frase motivadora: **Se você não lutar pelo futuro que você quer, você vai lutar pelo futuro que vier**!
+- ⚡ Fato curioso sobre mim: Eu amo estudar economia, **Eterno aprendiz do mundo dos Investimentos!**
+- ❤️ Frase motivadora: **Se você não lutar pelo futuro que você quer, você vai lutar pelo futuro que vier!**
 
 
  
