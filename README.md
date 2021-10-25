@@ -10,7 +10,7 @@ Oi, me chamo Álisson Véras 😃. Moro em Quixadá-CE, e atualmente estou cursa
 
 ## ⚡ Tecnologias!
 Um pouco sobre mim:
-- Comecei meus fundamentos com **Python e Java**.
+- Comecei meus fundamentos com **Python**.
 - Estudando Front-end usando **HTML, Javascript, CSS e React**.
 - Brinquei com Backend usando **Node**.
 - Nas horas vagas programo jogos usando **Unity3D + C#**.
