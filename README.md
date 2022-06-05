@@ -1,8 +1,5 @@
-<h2> Oi, me chamo Ally. Ou Fty57! <img src="https://c.tenor.com/KCY_gcLoB2UAAAAd/jinx.gif" width="30px"></h2>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
-' width='200"'>
-
+<img align='right' src="https://media.giphy.com/media/9bS7rDsJAB0sFeODj3/giphy.gif" width="30px">
+<h2> Oi, me chamo Ally. Ou Fty57!</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-fty.57@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fty.57@alu.ufc.br)](mailto:fty.57@alu.ufc.br)
 ![visitantes](https://visitor-badge.glitch.me/badge?page_id=fty57.fty57)
