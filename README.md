@@ -1,6 +1,6 @@
 <h2> Oi, me chamo Ally. Ou Fty57! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://64.media.tumblr.com/f561be7372af5a93611ce0e455187d3e/e20e7c1895686488-51/s540x810/065c188d431e3f32a7d81c88f5ff34b097880c6a.gif)' width='200"'>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-fty.57@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fty.57@alu.ufc.br)](mailto:fty.57@alu.ufc.br)
