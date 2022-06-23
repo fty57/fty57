@@ -11,7 +11,6 @@ Um pouco sobre mim:
 - Comecei meus fundamentos com **Python**.
 - Estudando Front-end usando **HTML, Javascript, CSS, React e ReactNative**.
 - Brinquei com Backend usando **Node**.
-- Nas horas vagas programo jogos usando **Unity3D + C#**.
 - Atualmente estudando **Javascript** (Aprofundando conhecimentos).
 - Além de usar Design nos projetos **Figma**
 ## 🤔 Olá, Mundo!
