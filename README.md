@@ -1,4 +1,4 @@
-<h2> Oi, me chamo Ally. Ou Fty57</h2></br>
+<h2> Oi, me chamo Ally. Ou Fty57!</h2></br>
 <img align='right' src="https://media.giphy.com/media/9bS7rDsJAB0sFeODj3/giphy.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-fty.57@alu.ufc.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fty.57@alu.ufc.br)](mailto:fty.57@alu.ufc.br)
