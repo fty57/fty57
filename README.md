@@ -11,7 +11,7 @@ Um pouco sobre mim:
 - Comecei meus fundamentos com **Python**.
 - Estudando Front-end usando **HTML, Javascript, CSS, React e ReactNative**.
 - Brinquei com Backend usando **Node**.
-- Atualmente estudando **Javascript** (Aprofundando conhecimentos).
+- Atualmente estudando **React Js** (Aprofundando conhecimentos - Intermediário ao Avançado).
 - Além de usar Design nos projetos **Figma**
 ## 🤔 Olá, Mundo!
 - 💬 Pode vir falar comigo o que precisa. Se eu ainda não souber de algo, acredite eu vou aprender e resolver seu problema!
