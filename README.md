@@ -11,7 +11,7 @@ A little about myself:
 - I started my fundamentals with **Python**.
 - Studying Front-end using **HTML, Javascript, CSS, React and ReactNative**.
 - Played around with Backend using **Node**.
-- Currently studying **React Js** (Deepening knowledge - Intermediate to Advanced).
+- Currently studying **Next Js** (Deepening knowledge - Intermediate to Advanced).
 - In addition to using Design in **Figma** projects
 ## 🤔 Hello, World!
 - 💬 You can come talk to me what you need. If I still don't know something, believe me I will learn and solve your problem!
