@@ -9,7 +9,7 @@ Hi, my name is Francisco Álisson 😃. I live in Quixadá-CE, and I'm currently
 ## ⚡ Technologies!
 A little about myself:
 - I started my fundamentals with **Python**.
-- Studying Front-end using **HTML, Javascript, CSS, React and ReactNative**.
+- Studying Front-end using **HTML, Javascript, CSS, React and Next Js**.
 - Played around with Backend using **Node**.
 - Currently studying **Next Js** (Deepening knowledge - Intermediate to Advanced).
 - In addition to using Design in **Figma** projects
